@@ -1,0 +1,6 @@
+.:10000 {
+    root ./testdata/DNSSEC/zones
+    file root.db
+    log
+}
+
